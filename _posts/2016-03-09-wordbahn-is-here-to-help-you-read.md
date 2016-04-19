@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Read ahead. How far can more effective reading take you?
-datePublished: '2016-04-19T21:45:48.944Z'
-dateModified: '2016-04-19T21:45:32.958Z'
+datePublished: '2016-04-19T21:47:37.578Z'
+dateModified: '2016-04-19T21:47:31.395Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-wordbahn-is-here-to-help-you-read.md
