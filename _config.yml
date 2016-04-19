@@ -2,6 +2,7 @@ name: wordbahn
 favicon: null
 layout_spectrum: 0.33253287291154265
 typography_spectrum: 0.13177086389623582
+title: Wordbahn
 cta:
   domain: null
   bucket: null
