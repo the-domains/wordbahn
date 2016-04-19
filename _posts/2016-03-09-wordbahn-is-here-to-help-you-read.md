@@ -5,23 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Wordbahn is here to help you read
-datePublished: '2016-03-09T14:54:37.903Z'
-dateModified: '2016-03-09T14:52:35.960Z'
+description: Read ahead. How far can more effective reading take you?
+datePublished: '2016-04-19T21:45:48.944Z'
+dateModified: '2016-04-19T21:45:32.958Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-09-wordbahn-is-here-to-help-you-read.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-wordbahn-is-here-to-help-you-read.md
-published: true
 url: wordbahn-is-here-to-help-you-read/index.html
 _type: Article
 
 ---
-Read ahead.  How far can more effective reading take you?
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/35754f78bb22c372038aa6b4a4d4dcf5da2ab096.png)
+
+Read ahead. How far can more effective reading take you?
 
 Wordbahn is here is to help everyone read more and read more effectively.
